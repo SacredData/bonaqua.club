@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bon Aqua Computer Club</title>
+    <link>https://bonaqua.club/</link>
+    <description>Recent content on Bon Aqua Computer Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Aug 2021 15:57:48 -0500</lastBuildDate><atom:link href="https://bonaqua.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Run Your Mouth: Summer Porch Tour</title>
+      <link>https://bonaqua.club/posts/rym-spt/</link>
+      <pubDate>Sun, 15 Aug 2021 15:57:48 -0500</pubDate>
+      
+      <guid>https://bonaqua.club/posts/rym-spt/</guid>
+      <description>The first live event at the Bon Aqua Computer Club was a resounding success, and put us on an amazing trajectory for future endeavors.
+ Many thanks to Robbie TheFire Bernstein and BK Chris for coming out for this adventure and for bringing so many wonderful people together in one space!</description>
+    </item>
+    
+    <item>
+      <title>Computer Club?</title>
+      <link>https://bonaqua.club/posts/my-first-post/</link>
+      <pubDate>Sat, 14 Aug 2021 14:06:00 -0500</pubDate>
+      
+      <guid>https://bonaqua.club/posts/my-first-post/</guid>
+      <description>The Bon Aqua Computer Club will be an opportunity to meet and collaborate on fun technical projects that expand our minds and enhance our self-reliance. We can each have a hand in taking back our sovereignty if we join together and commit to learning about what opportunities are out there!
+ Potential Topics  Archiving your favorite YouTube channels to save them from censorship extinction. How to replace your expensive Netflix and Hulu subscriptions with one free download: BitTorrent.</description>
+    </item>
+    
+  </channel>
+</rss>
