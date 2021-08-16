@@ -102,6 +102,10 @@ menu:
           name: categories
           url: /categories/
           weight: 10
+        - identifier: contact
+          name: contact
+          url: mailto:andrew@grathwohl.me
+          weight: 15
         - identifier: tags
           name: tags
           url: /tags/
