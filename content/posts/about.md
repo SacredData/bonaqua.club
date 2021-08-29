@@ -8,7 +8,7 @@ author: "Andrew Grathwohl"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "About the Bon Aqua Computer Club"

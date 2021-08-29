@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>about on Bon Aqua Computer Club</title>
+    <link>https://bonaqua.club/tags/about/</link>
+    <description>Recent content in about on Bon Aqua Computer Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2021 11:50:49 -0500</lastBuildDate><atom:link href="https://bonaqua.club/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://bonaqua.club/posts/about/</link>
+      <pubDate>Mon, 16 Aug 2021 11:50:49 -0500</pubDate>
+      
+      <guid>https://bonaqua.club/posts/about/</guid>
+      <description>About the Bon Aqua Computer Club</description>
+    </item>
+    
+  </channel>
+</rss>
